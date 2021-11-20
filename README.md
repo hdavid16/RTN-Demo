@@ -8,6 +8,8 @@ See model equations in the Markdown at the top of each of the .ipynb files (Note
 ## Example System
 ### System Being Modeled
 
+![](./extras/example-1.svg)
+
 #### Reaction Pathways:
 1 reactor can perform three different stoichiomentric reactions (50/50 ratio for reactants):
 - Reaction 1: A + B -> D

@@ -26,3 +26,7 @@ See model equations in the Markdown at the top of each of the .ipynb files (Note
 
 #### Objective:
 Find the production schedule that will satisfy the external demands and require the least number of batches.
+
+#### RTN Structure:
+
+![](./extras/example-1-network.svg)
